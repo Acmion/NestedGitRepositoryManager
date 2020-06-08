@@ -1,0 +1,1 @@
+dotnet script $(dirname "$0")/Csx/PushMainRepository.csx
